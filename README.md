@@ -1,4 +1,4 @@
-# tf2config
+# csgoconfig
 
 ### Launch Options
 +exec autoexec -1280 -1024 -nod3d9ex1 -nojoy -novid -noborder -threads 4 -tickrate 128 -refresh 144 -full -high +r_drawparticles 0 +cl_forcepreload 1 +mat_queue_mode 2

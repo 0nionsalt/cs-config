@@ -1,7 +1,7 @@
 # csgoconfig
 
 ### Launch Options
-+exec autoexec -1280 -960 -nod3d9ex1 -allow_third_party_software -nojoy -novid -noborder -threads 4 -tickrate 128 -refresh 144 -full -high +r_drawparticles 0 +cl_forcepreload 1 +mat_queue_mode 2
++exec autoexec -1280 -1024-nod3d9ex1 -allow_third_party_software -nojoy -novid -noborder -threads 4 -tickrate 128 -refresh 144 -full -high +r_drawparticles 0 +cl_forcepreload 1 +mat_queue_mode 2
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button

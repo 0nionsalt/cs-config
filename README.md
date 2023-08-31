@@ -10,3 +10,6 @@
 4. Make sure to insert the `launch options` in the launch options properties on Steam!
 5. Run CSGO
 6. Done!
+
+### Side
+I use https://slam.flankers.net/ as mic spam for jokes

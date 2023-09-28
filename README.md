@@ -1,4 +1,4 @@
-# csgoconfig
+# cs-config
 
 ### Launch Options
 +exec autoexec -1280 -1024 +cl_forcepreload 1 -nojoy -novid -noborder -nod3d9ex1 -full -high -tickrate 128 -refresh 144 -allow_third_party_software -threads 4 +r_drawparticles 0 +mat_queue_mode 2

@@ -6,10 +6,7 @@
 ### Installation
 1. Download `cs-config` by clicking `Download ZIP` from the green `Clone or download` button.
 2. Navigate to `\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
-3. Extract `cs-config-master` from the ZIP file into the `game\csgo\cfg` folder.
+3. Extract `cs-config-master` folder from the ZIP file into the `game\csgo\cfg` folder.
 4. Make sure to insert the `launch options` in the launch options properties on Steam!
-5. Run CS2!
-6. Done!
-
-### Optional
-I use https://slam.flankers.net/ as mic spam for jokes 
+5. Run Counter Strike 2.
+6. You're Done! 

@@ -1,7 +1,7 @@
 # cs-config
 
 ### Launch Options
-+exec autoexec -1280 -1024 +cl_forcepreload 1 -nojoy -novid -noborder -nod3d9ex1 -full -high -tickrate 128 -refresh 144 -allow_third_party_software -threads 4 +r_drawparticles 0 +mat_queue_mode 2 -softparticlesdefaultoff +violence_hblood 0
++exec autoexec.cfg -1280 -960 -freq 144 -threads 8 +cl_forcepreload 1 +r_drawparticles 0 +mat_queue_mode 2 +violence_hblood 0 -nojoy -novid -noborder -d3d9ex -full -high -tickrate 128 -allow_third_party_software  -softparticlesdefaultoff 
 
 ### Installation
 1. Download `cs-config` by clicking `Download ZIP` from the green `Clone or download` button.
